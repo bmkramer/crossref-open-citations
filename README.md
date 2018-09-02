@@ -10,7 +10,7 @@ established parties, restricting their potential use for the wider scholarly com
 
 ### Quality of citation data
 More and more publishers are making references openly available through Crossref, but their quality is often still suboptimal, 
-with many references lacking important information including DOIs (Fig 1a, from D. Ecer's [analysis of Crossref citation data](https://elifesci.org/crossref-data-notebook)). This limits their use in open citation indexes, 
+with many references lacking important information including DOIs (Fig 1a, from [D. Ecer](https://github.com/de-code)'s [analysis of Crossref citation data](https://elifesci.org/crossref-data-notebook)). This limits their use in open citation indexes, 
 like OpenCitations’ [COCI](http://opencitations.net/index/coci) index.
 
 ### Community enrichment – an experiment
@@ -26,6 +26,6 @@ beyond publishers, what legitimate sources to get additional citation data infor
 how alternative routes to enrichment would scale, and how provenance of enrichments should be dealt with. 
 
 ## THE SCRIPT
-The script uses a double loop to retrieve a random set (10 sets of 100) of Crossref DOIs for journal articles with open citation data, published between 2015-2017. For each DOI, the number of references from Crossref is retrieved and a random reference is selected from this number. For this reference, the citation data are retrieved from Crossref, using the fields identified by D. Ecer in his [analysis of Crossref (open) citation data](https://elifesci.org/crossref-data-notebook). 
+The script uses a double loop to retrieve a random set (10 sets of 100) of Crossref DOIs for journal articles with open citation data, published between 2015-2017. For each DOI, the number of references from Crossref is retrieved and a random reference is selected from this number. For this reference, the citation data are retrieved from Crossref, using the fields identified by [D. Ecer[(https://github.com/de-code) in his [analysis of Crossref (open) citation data](https://elifesci.org/crossref-data-notebook). 
 
 ### Further cleaning and handling
