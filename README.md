@@ -34,7 +34,7 @@ Link to results (script run on August 24, 2018): [Crossref_randomReferences_1000
 ### Further cleaning and handling
 From the 1000 citations retrieved, 278 were shown to not include a DOI (Fig 1b). These were manually inspected to determine whether they were citations to journal articles (n= 107*). From these, the most recent 48 (representing citations to journal articles published in 2010-2016) were selected to be included on the poster presented at the Workshop on Open Citations. 
 
-*\*See also [Scholia](https://www.wikidata.org/wiki/Wikidata:Scholia) and [SourceMD](https://tools.wmflabs.org/sourcemd/) as tools to search and enrich citations in Wikidata
+*\*See also [Scholia](https://www.wikidata.org/wiki/Wikidata:Scholia) and [SourceMD](https://tools.wmflabs.org/sourcemd/) as tools to search and enrich citations in Wikidata  
 *\**The other citations without DOIs were found to be to books/book chapters/reports/theses (n=131), conference proceedings (n=14) and miscellaneous publication types, including websites, images, and software code (n=25)* 
 
 ![Winter Solstice Challenge - image](https://github.com/bmkramer/crossref-open-citations/blob/master/Crossref_opencitations_DOIs.png)
