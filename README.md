@@ -26,7 +26,10 @@ beyond publishers, what legitimate sources to get additional citation data infor
 how alternative routes to enrichment would scale, and how provenance of enrichments should be dealt with. 
 
 ## THE SCRIPT
-The script uses a double loop to retrieve a random set (10 sets of 100) of Crossref DOIs for journal articles with open citation data, published between 2015-2017. For each DOI, the number of references from Crossref is retrieved and a random reference is selected from this number. For this reference, the citation data are retrieved from Crossref, using the fields identified by [D. Ecer[(https://github.com/de-code) in his [analysis of Crossref (open) citation data](https://elifesci.org/crossref-data-notebook). 
+The script uses a double loop to retrieve a random set (10 sets of 100) of Crossref DOIs for journal articles with open citation data, published between 2015-2017. For each DOI, the number of references from Crossref is retrieved and a random reference is selected from this number. For this reference, the citation data are retrieved from Crossref, using the fields identified by [D. Ecer](https://github.com/de-code) in his [analysis of Crossref (open) citation data](https://elifesci.org/crossref-data-notebook).
+
+Link to the script:
+Link to results (script run on August 24, 2018): [Crossref_randomReferences_1000_2015-2017.csv](https://github.com/bmkramer/crossref-open-citations/blob/master/Crossref_randomReferences_1000_2015-2017.csv)
 
 ### Further cleaning and handling
 From the 1000 citations retrieved, 278 were shown to not include a DOI (Fig 1b). These were manually inspected to determine whether they were citations to journal articles (n= 107*). From these, the most recent 48 (representing citations to journal articles published in 2010-2016) were selected to be included on the poster presented at the Workshop on Open Citations. 
