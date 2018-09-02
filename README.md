@@ -4,7 +4,6 @@
 Script accompanying poster activity at [Workshop on Open Citations](https://workshop-oc.github.io/) (Sept 3-5 2018, Bologna, Italy)  
 Poster and dataset on Figshare: [10.6084/m9.figshare.7011689](https://doi.org/10.6084/m9.figshare.7011689)
 
-![Poster_giant_thumbnail - image](https://github.com/bmkramer/crossref-open-citations/blob/master/DOI-wanted_WOOC_201809_BiancaKramer_small.jpg)
 
 ## BACKGROUND
 Open citations are an important part of open scholarly infrastructure. Their development also shows both the power and limitations of 
