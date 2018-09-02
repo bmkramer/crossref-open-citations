@@ -4,6 +4,8 @@
 Script accompanying poster activity at [Workshop on Open Citations](https://workshop-oc.github.io/) (Sept 3-5 2018, Bologna, Italy)  
 Poster and dataset on Figshare: [10.6084/m9.figshare.7011689](https://doi.org/10.6084/m9.figshare.7011689)
 
+![Poster_giant_thumbnail - image](https://github.com/bmkramer/crossref-open-citations/blob/master/Crossref_opencitations_DOIs.png)
+
 ## BACKGROUND
 Open citations are an important part of open scholarly infrastructure. Their development also shows both the power and limitations of 
 established parties, restricting their potential use for the wider scholarly community. 
@@ -39,4 +41,4 @@ The results of these cleaning and selection steps are included in this repo as E
 *\*See also [Scholia](https://www.wikidata.org/wiki/Wikidata:Scholia) and [SourceMD](https://tools.wmflabs.org/sourcemd/) as tools to search and enrich citations in Wikidata*   
 *\**The other citations without DOIs were found to be to books/book chapters/reports/theses (n=131), conference proceedings (n=14) and miscellaneous publication types, including websites, images, and software code (n=25)* 
 
-![Winter Solstice Challenge - image](https://github.com/bmkramer/crossref-open-citations/blob/master/Crossref_opencitations_DOIs.png)
+![Fig 1ab - image](https://github.com/bmkramer/crossref-open-citations/blob/master/Crossref_opencitations_DOIs.png)
