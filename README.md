@@ -1,7 +1,7 @@
 # DOI wanted - random selection of 1000 open citations from Crossref 
 *(cited by journal articles published 2015-2017)*
 
-Script accompanying poster activity at [Workshop on Open Citations](https://workshop-oc.github.io/) (Sept 3-5 2018, Bologna, Italy)
+Script accompanying poster activity at [Workshop on Open Citations](https://workshop-oc.github.io/) (Sept 3-5 2018, Bologna, Italy)  
 Poster and dataset on Figshare: [10.6084/m9.figshare.7011689](https://doi.org/10.6084/m9.figshare.7011689)
 
 ## BACKGROUND
